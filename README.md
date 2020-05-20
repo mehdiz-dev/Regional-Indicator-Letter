@@ -1,4 +1,4 @@
-# Regional-Indicator-Letter
+# Regional indicator letter
 
 Simple array containing all capital letters in unicode form.
 
